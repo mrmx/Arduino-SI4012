@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Arduino SI4012 library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Si4012	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setLed	KEYWORD2
+setConfig	KEYWORD2
+setModulation	KEYWORD2
+setFrequency	KEYWORD2
+getFrequency	KEYWORD2
+setBitrate	KEYWORD2
+setData	KEYWORD2
+tx	KEYWORD2
+setFifoThreshold	KEYWORD2
+getState	KEYWORD2
+getInterruptState	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
