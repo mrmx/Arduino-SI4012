@@ -1,7 +1,7 @@
 /*
    Si4012.cpp
 
-   Copyright (c) 2015, Manuel Polo <mistermx@gmail.com>
+   Copyright (c) 2016, Manuel Polo <mistermx@gmail.com>
 
    This file is part of Arduino-Si4012 project.
 
@@ -49,7 +49,6 @@ uint32_t Si4012::getFrequency() {
   }
   return frequency;
 }
-
 
 uint8_t Si4012::setBitrate(uint16_t rate, uint8_t rampRate) {
   reqBuf[1] = (rate >> 10) & 0xFF;

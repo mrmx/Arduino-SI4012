@@ -1,7 +1,7 @@
 /*
    Arduino-Si4012.ino
 
-   Copyright (c) 2015, Manuel Polo <mistermx@gmail.com>
+   Copyright (c) 2016, Manuel Polo <mistermx@gmail.com>
 
    This file is part of Arduino-Si4012 project.
 
